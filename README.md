@@ -9,4 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
