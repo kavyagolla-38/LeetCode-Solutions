@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [2315-count-asterisks](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 ## Bit Manipulation
 |  |
 | ------- |
