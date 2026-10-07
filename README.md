@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0046-permutations) |
 ## Bracket Sequences
 |  |
 | ------- |
