@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2315-count-asterisks](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/2315-count-asterisks) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -127,4 +129,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
