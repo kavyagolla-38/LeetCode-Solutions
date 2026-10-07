@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2315-count-asterisks](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/2315-count-asterisks) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
