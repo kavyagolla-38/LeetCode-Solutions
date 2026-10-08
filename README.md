@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2315-count-asterisks](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 ## Bit Manipulation
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
@@ -132,8 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kavyagolla-38/LeetCode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
